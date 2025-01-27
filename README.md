@@ -5,11 +5,7 @@
 
 [x] Write a Dockerfile to create an image for the API.
 
-[ ] Create a Terraform file for a potential infrastructure option if the API was to be hosted in the cloud.
-
-[ ] Be prepared to talk through the decisions that were made, and why!
-
-[ ] You do not need to deploy the actual API, but we should be able to create a Docker image and call the API.
+[x] Create a Terraform file for a potential infrastructure option if the API was to be hosted in the cloud.
 
 ```
 # Build a container image with the included Dockerfile
